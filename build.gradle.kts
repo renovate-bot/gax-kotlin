@@ -55,7 +55,7 @@ allprojects {
         set("protoc_gen_javalite_version", "3.0.0")
         set("grpc_version", "1.20.0")
 
-        set("junit_version", "4.12")
+        set("junit_version", "4.13.2")
         set("mockito_kotlin_version", "1.6.0")
         set("truth_version", "0.41")
     }
