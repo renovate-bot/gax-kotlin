@@ -57,7 +57,7 @@ allprojects {
 
         set("junit_version", "4.12")
         set("mockito_kotlin_version", "1.6.0")
-        set("truth_version", "0.41")
+        set("truth_version", "0.46")
     }
 
     buildscript {
