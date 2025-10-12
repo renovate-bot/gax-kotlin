@@ -61,7 +61,7 @@ java {
 }
 
 jacoco {
-    toolVersion = "0.8.2"
+    toolVersion = "0.8.14"
 }
 
 protobuf {
